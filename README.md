@@ -32,6 +32,7 @@ Calculated using an anisotropic movement model based on Tobler’s Hiking functi
 <br>
 
 ### Socio-environmental variables
+Variables were selected for their potential strategic, agricultural, pastoral, cultural and aesthetic, transport and taphonomic influence on archaeological distribution patterns in the Upper Tundzha. Each variable was extracted using at least one of three unique site catchment radii: immediate site area (ISA), intensive activity area (IAA) and extensive activity area (EAA).
 
 | Variable  | Category       | Data type    | Description                                       | References                                                                                                                                           | 
 |-----------|----------------|--------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -55,3 +56,52 @@ Calculated using an anisotropic movement model based on Tobler’s Hiking functi
 | view_mt   | Visibility     | Quantitative | Mountains visibility (% visible mountain area)            | Graves 2011; Garcia 2012; Kosiba and Bauer 2012                                                                                               | 
 | view_seu  | Visibility     | Quantitative | Seuthopolis visibility (% visible towers)                 | Ogburn 2006; Alexakis et al. 2011                                                                                                             | 
 | view_val  | Visibility     | Quantitative | Valley floor visibility (% visible valley floor)          | Kvamme 1992; Graves 2011; Garcia 2012; Kosiba and Bauer 2012                                                                                 | 
+
+<br>
+
+### References
+
+<sup>Alexakis, Dimitrios, Apostolos Sarris, Theodoros Astaras, and Konstantinos Albanakis. 2011. “Integrated GIS, Remote Sensing and Geomorphologic Approaches for the Reconstruction of the Landscape Habitation of Thessaly during the Neolithic Period.” Journal of Archaeological Science 38 (1). Elsevier Ltd: 89–100. doi:10.1016/j.jas.2010.08.013.
+
+<sup>Arnold, Elizabeth R, and Haskel J Greenfield. 2006. “The Origins of Transhumant Pastorialism in Temperate South Eastern Europe: A Zooarchaeological Perspective from the Central Balkans.”
+
+<sup>Brandt, Roel, Bert J Groenewoudt, and Kenneth L Kvamme. 1992. “An Experiment in Archaeological Site Location: Modeling in the Netherlands Using GIS Techniques.” World Archaeology 24 (2): 268–82.
+
+<sup>Carleton, W Chris, James Conolly, and Gyles Ianonne. 2012. “A Locally-Adaptive Model of Archaeological Potential (LAMAP).” Journal of Archaeological Science 39 (11). Elsevier Ltd: 3371–85. doi:10.1016/j.jas.2012.05.022.
+
+<sup>Dennell, Robin W, and D Webley. 1975. “Prehistoric Settlement and Land Use in Southern Bulgaria.” In Palaeoeconomy, edited by E. S. Higgs, 97–109. London and New York: Cambridge University Press.
+
+<sup>Dorshow, Wetherbee Bryan. 2012. “Modeling Agricultural Potential in Chaco Canyon during the Bonito Phase: A Predictive Geospatial Approach.” Journal of Archaeological Science 39 (7). Elsevier Ltd: 2098–2115. doi:10.1016/j.jas.2012.02.004.
+
+<sup>Espa, G., R. Benedetti, A. De Meo, U. Ricci, and S. Espa. 2006. “GIS Based Models and Estimation Methods for the Probability of Archaeological Site Location.” Journal of Cultural Heritage 7 (3): 147–55. http://linkinghub.elsevier.com/retrieve/pii/S1296207406000446.
+
+<sup>Garcia, Alejandro. 2012. “GIS-Based Methodology for Palaeolithic Site Location Preferences Analysis. A Case Study from Late Palaeolithic Cantabria (Northern Iberian Peninsula).” Journal of Archaeological Science 40 (1). Elsevier Ltd: 217–26. doi:10.1016/j.jas.2012.08.023.
+
+<sup>Graves, Dorothy. 2011. “The Use of Predictive Modelling to Target Neolithic Settlement and Occupation Activity in Mainland Scotland.” Journal of Archaeological Science 38 (3). Elsevier Ltd: 633–56. doi:10.1016/j.jas.2010.10.016.
+
+<sup>Jarosław, Jasiewicz, and Iwona Hildebrandt-Radke. 2009. “Using Multivariate Statistics and Fuzzy Logic System to Analyse Settlement Preferences in Lowland Areas of the Temperate Zone: An Example from the Polish Lowlands.” Journal of Archaeological Science 36 (10): 2096–2107. doi:10.1016/j.jas.2009.06.004.
+
+<sup>Kosiba, Steve, and Andrew M Bauer. 2012. Mapping the Political Landscape: Toward a GIS Analysis of Environmental and Social Difference. Journal of Archaeological Method and Theory. Vol. 20. doi:10.1007/s10816-011-9126-z.
+
+<sup>Kvamme, Kenneth L. 1992. “A Predictive Site Location Model on the High Plains: An Example with an Independent Test.” Plains Anthropologist 37 (138): 19–40.
+
+<sup>Llobera, Marcos. 2001. “Building Past Landscape Perception with GIS: Understanding Topographic Prominence.” Journal of Archaeological Science 28 (9): 1005–14. doi:10.1006/jasc.2001.0720.
+
+<sup>Llobera, Marcos, P Fábrega-Álvarez, and C Parcero-Oubiña. 2011. “Order in Movement: A GIS Approach to Accessibility.” Journal of Archaeological Science 38 (4): 843–51.
+
+<sup>Madzharov, Mitko. 2009. Roman Roads in Bulgaria: Contribution to the Development of Roman Road System in the Provinces of Moesia and Thrace. Veliko Tŭrnovo: Faber.
+
+<sup>Ogburn, Dennis E. 2006. “Assessing the Level of Visibility of Cultural Objects in Past Landscapes.” Journal of Archaeological Science 33 (3): 405–13. doi:10.1016/j.jas.2005.08.005.
+
+<sup>Sobotkova, Adela. 2012. The Valley of the Kings? Social Complexity of Inland Thrace during the First Millennium BC. University of Michigan (PhD dissertation).
+
+<sup>Vanacker, Veerle, Gerard Govers, Philip van Peer, Cyriel Verbeek, Johan Desmet, and Jeroen Reyniers. 2001. “Using Monte Carlo Simulation for the Environmental Analysis of Small Archaeologic Datasets, with the Mesolithic in Northeast Belgium as a Case Study.” Journal of Archaeological Science 28 (6): 661–69. doi:10.1006/jasc.2001.0654.
+
+<sup>Vaughn, Sallie, and Tom Crawford. 2009. “A Predictive Model of Archaeological Potential: An Example from Northwestern Belize.” Applied Geography 29 (4). Elsevier Ltd: 542–55. doi:10.1016/j.apgeog.2009.01.001.
+
+<sup>Warren, Robert E. 1990. “Predictive Modelling of Archaeological Site Location: A Case Study in the Midwest.” In Interpreting Space: GIS and Archaeology, edited by K.M.S. Allen, S.W. Green, and E.B.W. Zubrow, 201–15. London: Taylor & Francis.
+
+<sup>White, Devin A., and Sarah B. Barber. 2012. “Geospatial Modeling of Pedestrian Transportation Networks: A Case Study from Precolumbian Oaxaca, Mexico.” Journal of Archaeological Science 39 (8): 2684–96. doi:10.1016/j.jas.2012.04.017.
+
+<sup>Witt, Matthias, Maik Evers, M Möller, and Christian Dette. 2012. “Characterization and Analysis of Natural Resource Potentials for Archaeological Site Location Using the Example of the Early Bronze Age in Central Germany.” Journal for Ancient Studies 3: 347–52. http://journal.topoi.org/index.php/etopoi/article/download/133/158.
+
