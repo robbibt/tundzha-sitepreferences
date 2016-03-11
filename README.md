@@ -1,7 +1,34 @@
 # tundzha_sitepreferences
 Outputs of archaeological site preference analysis for the Upper Tundzha valley, Bulgaria
 
-## Socio-environmental variables
+
+
+### Archaeological periods 
+Timespans for the Upper Tundzha Valley study region after Sobotkova (2012)
+
+| Time-span     | Archaeological period / dataset     | Abbreviation | Sites (total) | Sites (study) | 
+|---------------|-------------------------------------|--------------|---------------|---------------| 
+| 6000-3100 BC  | Prehistoric period                  | APH          | 19            | 13            | 
+| 3101-2400 BC  | Early Bronze Age                    | EBA          | 15            | 10            | 
+| 2501-1600 BC  | Middle Bronze Age                   | MBA          | 5             | 0             | 
+| 1601-1000 BC  | Late Bronze Age                     | LBA          | 12            | 6             | 
+| 1101-400 BC   | Early Iron Age                      | EIA          | 44            | 26            | 
+| 401-100 BC    | Late Iron Age                       | LIA          | 50            | 32            | 
+| 101 BC-300 AD | Roman period                        | RM           | 37            | 18            | 
+| 3101-300 AD   | Burial mounds (undated; mostly LIA) | Mounds       | 784           | 302           |
+
+
+### Catchments used for site catchment analysis
+Calculated using an anisotropic movement model based on Tobler’s Hiking function (Tobler 1993)
+
+| Catchment               | Abbreviation | Utility                                                                                                                                                     | Radius calculation                                          | 
+|-------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------| 
+| Immediate site area     | ISA          | Study of factors influencing the specific location of an archaeological site, rather than its overall position in the wider landscape                       | Median radius (in minutes) of TRAP sites                    | 
+| Intensive activity area (3.3 min) | IAA          | Zone of intensive land-use expected in the immediate surrounds of an archaeological site, potentially related to intense arable agriculture or horticulture | Radius of most intense pottery sherd clustering (Moran’s I) | 
+| Extensive activity area (13.3 min) | EAA          | Influence of a site’s extended landscape, potentially related to extensive agriculture, herding and pastoralism (Ullah, 2011)                               | Radius of maximum pottery sherd clustering (Moran’s I)      | 
+
+
+### Socio-environmental variables
 
 | Variable  | Category       | Data type    | Description                                       | References                                                                                                                                           | 
 |-----------|----------------|--------------|-----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------| 
