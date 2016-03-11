@@ -1,6 +1,7 @@
 # tundzha_sitepreferences
 Outputs of archaeological site preference analysis for the Upper Tundzha valley, Bulgaria
 
+![Upper Tundzha Valley study region](https://github.com/robbibt/tundzha_sitepreferences/blob/master/study_area.png "Upper Tundzha Valley study region")
 
 
 ### Archaeological periods 
@@ -17,6 +18,7 @@ Timespans for the Upper Tundzha Valley study region after Sobotkova (2012)
 | 101 BC-300 AD | Roman period                        | RM           | 37            | 18            | 
 | 3101-300 AD   | Burial mounds (undated; mostly LIA) | Mounds       | 784           | 302           |
 
+<br>
 
 ### Catchments used for site catchment analysis
 Calculated using an anisotropic movement model based on Tobler’s Hiking function (Tobler 1993)
@@ -27,6 +29,7 @@ Calculated using an anisotropic movement model based on Tobler’s Hiking functi
 | Intensive activity area (3.3 min) | IAA          | Zone of intensive land-use expected in the immediate surrounds of an archaeological site, potentially related to intense arable agriculture or horticulture | Radius of most intense pottery sherd clustering (Moran’s I) | 
 | Extensive activity area (13.3 min) | EAA          | Influence of a site’s extended landscape, potentially related to extensive agriculture, herding and pastoralism (Ullah, 2011)                               | Radius of maximum pottery sherd clustering (Moran’s I)      | 
 
+<br>
 
 ### Socio-environmental variables
 
