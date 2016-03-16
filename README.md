@@ -3,6 +3,13 @@ Outputs of archaeological site preference analysis for the Upper Tundzha valley,
 
 ![Upper Tundzha Valley study region](https://github.com/robbibt/tundzha_sitepreferences/blob/master/study_area.png "Upper Tundzha Valley study region")
 
+### Site preference analysis toolbox
+Significant tools include:
+* *Anistropic Site Catchments:* derives time-based site catchments using Tobler’s Hiking function (Tobler 1993)
+* *Cumulative Viewshed Analysis:* derives cumulative fuzzy viewsheds from input sites (Ogburn 2006; Wheatley 1995)
+* *Systematic Stratified Random Sampling:* allocates random sampling sites within a regular grid
+
+<br>
 
 ### Archaeological periods 
 Timespans for the Upper Tundzha Valley study region after Sobotkova (2012)
@@ -100,6 +107,8 @@ Variables were selected for their potential strategic, agricultural, pastoral, c
 <sup>Vaughn, Sallie, and Tom Crawford. 2009. “A Predictive Model of Archaeological Potential: An Example from Northwestern Belize.” Applied Geography 29 (4). Elsevier Ltd: 542–55. doi:10.1016/j.apgeog.2009.01.001.
 
 <sup>Warren, Robert E. 1990. “Predictive Modelling of Archaeological Site Location: A Case Study in the Midwest.” In Interpreting Space: GIS and Archaeology, edited by K.M.S. Allen, S.W. Green, and E.B.W. Zubrow, 201–15. London: Taylor & Francis.
+
+<sup>Wheatley, D., 1995. Cumulative viewshed analysis: a GIS-based method for investigating intervisibility, and its archaeological application, in: Archaeology and Geographic Information Systems: A European Perspective. Taylor & Francis, London. 
 
 <sup>White, Devin A., and Sarah B. Barber. 2012. “Geospatial Modeling of Pedestrian Transportation Networks: A Case Study from Precolumbian Oaxaca, Mexico.” Journal of Archaeological Science 39 (8): 2684–96. doi:10.1016/j.jas.2012.04.017.
 
